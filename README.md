@@ -1,2 +1,2 @@
-# demo-_java
+# demo_java
 This is demo repo
