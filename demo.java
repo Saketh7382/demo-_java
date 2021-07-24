@@ -5,6 +5,7 @@ public class RightTrianglePattern
 		//this is the entire program :p
 		System.out.print("Hello Suchiluuuuu");   
 		System.out.print("Happy sunday");
+		System.out.print("Thank you same 2 you"); // saketh change
 			
 	}   
 }  
