@@ -6,6 +6,7 @@ public class RightTrianglePattern
 		System.out.print("Hello Suchiluuuuu");   
 		System.out.print("Happy sunday");
 		System.out.print("Thank you same 2 you"); // saketh change
+		System.out.println("hurrayyyyy"); //suchi command
 			
 	}   
 }  
